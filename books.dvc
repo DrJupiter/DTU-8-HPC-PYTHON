@@ -1,0 +1,6 @@
+outs:
+- md5: 12f9089d901ab40acd621d1433d1f335.dir
+  size: 14637224
+  nfiles: 1
+  hash: md5
+  path: books
