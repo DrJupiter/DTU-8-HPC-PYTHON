@@ -16,5 +16,5 @@
 source /dtu/projects/02613_2024/conda/conda_init.sh
 conda activate 02613
 
-python3 time3.py
+python3 ~/DTU-8-HPC-PYTHON/Exercises/week3/time3.py
 # nodestat -F <QUEUE>
